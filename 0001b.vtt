@@ -2,6 +2,8 @@ WEBVTT
 
 ::cue {
     font-size: 12px;
+    background-image: linear-gradient(to bottom, dimgray, lightgray);
+    color: papayawhip;
 }
 
 00:00:08.480 --> 00:00:16.840
