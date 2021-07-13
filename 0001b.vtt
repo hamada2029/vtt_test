@@ -1,5 +1,6 @@
 WEBVTT
 
+STYLE
 ::cue {
     font-size: 12px;
     background-image: linear-gradient(to bottom, dimgray, lightgray);
